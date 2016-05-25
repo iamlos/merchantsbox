@@ -12,7 +12,7 @@ import withStyles from 'isomorphic-style-loader/lib/withStyles';
 import s from './Header.css';
 import Link from '../Link';
 import Navigation from '../Navigation';
-import logoUrl from './logo-small.png';
+import logoUrl from './bigredbox.svg';
 
 function Header() {
   return (
@@ -20,12 +20,12 @@ function Header() {
       <div className={s.container}>
         <Navigation className={s.nav} />
         <Link className={s.brand} to="/">
-          <img src={logoUrl} width="38" height="38" alt="React" />
-          <span className={s.brandTxt}>Your Company</span>
+          <img src={logoUrl} width="400" height="80" alt="Merchant's BOX" />
+          <span className={s.brandTxt}></span>
         </Link>
         <div className={s.banner}>
-          <h1 className={s.bannerTitle}>React</h1>
-          <p className={s.bannerDesc}>Complex web apps made easy</p>
+          <h1 className={s.bannerTitle}></h1>
+          <h2 className={s.bannerDesc}>Merchant partnerships made easy</h2>
         </div>
       </div>
     </div>

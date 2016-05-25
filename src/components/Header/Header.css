@@ -10,12 +10,12 @@
 @import '../variables.css';
 
 :root {
-  --brand-color: #61dafb;
+  --brand-color: #ED0A21;
 }
 
 .root {
-  background: #373277;
-  color: #fff;
+  background: #fff;
+  color: #666;
 }
 
 .container {
@@ -32,9 +32,11 @@
 
 .brandTxt {
   margin-left: 10px;
+  color: #666;
 }
 
 .nav {
+  color: #666;
   float: right;
   margin-top: 6px;
 }
@@ -49,11 +51,12 @@
   font-weight: normal;
   font-size: 4em;
   line-height: 1em;
+    color: #666;
 }
 
 .bannerDesc {
   padding: 0;
-  color: rgba(255, 255, 255, 0.5);
+  color: #666;
   font-size: 1.25em;
   margin: 0;
 }

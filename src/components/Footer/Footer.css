@@ -10,7 +10,7 @@
 @import '../variables.css';
 
 .root {
-  background: #333;
+  background: #424242;
   color: #fff;
 }
 
@@ -48,5 +48,5 @@
 }
 
 .link:hover {
-  color: rgba(255, 255, 255, 1);
+  color: rgba(212, 212, 212, 1);
 }
