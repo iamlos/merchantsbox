@@ -1,4 +1,4 @@
-## React Starter Kit — "isomorphic" web app boilerplate
+## React - web app boilerplate
 
 > [React Starter Kit](https://www.reactstarterkit.com) is an opinionated
 > boilerplate for web development built on top of [Node.js](https://nodejs.org/),
@@ -9,9 +9,6 @@
 
 
 ### Getting Started
-
-  * Follow the [getting started guide](./docs/getting-started.md) to download and run the project
-  * Check the [code recipes](./docs/recipes) used in this boilerplate, or share yours
 
 ### Customization
 
