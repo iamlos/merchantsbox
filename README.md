@@ -5,19 +5,8 @@
 > [Express](http://expressjs.com/), [GraphQL](http://graphql.org/) and
 > [React](https://facebook.github.io/react/). Containing modern web development
 > tools such as [Webpack](http://webpack.github.io/), [Babel](http://babeljs.io/)
-> and [Browsersync](http://www.browsersync.io/). Helping you to stay productive
-> following the best practices. A solid starting point for both professionals
-> and newcomers to the industry.
+> and [Browsersync](http://www.browsersync.io/). 
 
-See [getting started](./docs/getting-started.md) &nbsp;|&nbsp;
-[demo](http://demo.reactstarterkit.com) &nbsp;|&nbsp;
-[docs](https://github.com/kriasoft/react-starter-kit/tree/master/docs) &nbsp;|&nbsp;
-[to-do list](https://waffle.io/kriasoft/react-starter-kit) &nbsp;|&nbsp;
-join [#react-starter-kit](https://gitter.im/kriasoft/react-starter-kit) chat room to stay up to date &nbsp;|&nbsp;
-visit our sponsors:<br><br>
-
-[![Rollbar - Full-stack error tracking for all apps in any language](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/rollbar.png)](https://rollbar.com/?utm_source=reactstartkit(github)&utm_medium=link&utm_campaign=reactstartkit(github)) &nbsp;&nbsp;
-[![Localize - Translate your web app in minutes](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/localize.png)](https://localizejs.com/?cid=802&utm_source=rsk)
 
 ### Getting Started
 
@@ -26,10 +15,6 @@ visit our sponsors:<br><br>
 
 ### Customization
 
-The `master` branch of React Starter Kit doesn't include a Flux implementation or any other
-advanced integrations. Nevertheless, we have some integrations available to you in *feature*
-branches that you can use either as a reference or merge into your project:
-
   * [feature/redux](https://github.com/kriasoft/react-starter-kit/tree/feature/redux) — isomorphic
     Redux by [Pavel Lang](https://github.com/langpavel) (see [how to integrate
     Redux](./docs/recipes/how-to-integrate-redux.md))
@@ -37,37 +22,6 @@ branches that you can use either as a reference or merge into your project:
     isomorphic Redux and React Intl by [Pavel Lang](https://github.com/langpavel) (see [how
     to integrate React Intl](./docs/recipes/how-to-integrate-react-intl.md))
 
-If you think that any of these features should be on `master`, or vise versa, some features should
-removed from the `master` branch, please [let us know](https://gitter.im/kriasoft/react-starter-kit).
-We love your feedback!
-
-### Backers
-
-♥ React Starter Kit? Help us keep it alive by donating funds to cover project
-expenses via [OpenCollective](https://opencollective.com/react-starter-kit) or
-[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RETHAJHV3T972)!
-
-<a href="http://www.nekst.me/" target="_blank" title="lehneres">
-  <img src="https://github.com/lehneres.png?size=64" width="64" height="64" alt="lehneres">
-</a>
-<a href="http://www.vidpanel.com/" target="_blank" title="Tarkan Anlar">
-  <img src="https://github.com/tarkanlar.png?size=64" width="64" height="64" alt="Tarkan Anlar">
-</a>
-<a href="https://morten.olsen.io/" target="_blank" title="Morten Olsen">
-  <img src="https://github.com/mortenolsendk.png?size=64" width="64" height="64" alt="Morten Olsen">
-</a>
-<a href="https://twitter.com/adamthomann" target="_blank" title="Adam">
-  <img src="https://github.com/athomann.png?size=64" width="64" height="64" alt="Adam">
-</a>
-<a href="http://dsernst.com/" target="_blank" title="David Ernst">
-  <img src="https://github.com/dsernst.png?size=64" width="64" height="64" alt="David Ernst">
-</a>
-<a href="http://zanehitchcox.com/" target="_blank" title="Zane Hitchcox">
-  <img src="https://github.com/zwhitchcox.png?size=64" width="64" height="64" alt="Zane Hitchcox">
-</a>
-<a href="https://opencollective.com/react-starter-kit" target="_blank">
-  <img src="https://opencollective.com/static/images/become_backer.svg" width="64" height="64" alt="">
-</a>
 
 ### Learn More
 
@@ -87,13 +41,6 @@ expenses via [OpenCollective](https://opencollective.com/react-starter-kit) or
   * [React Static Boilerplate](https://github.com/koistya/react-static-boilerplate) — Generates static websites from React components
   * [Babel Starter Kit](https://github.com/kriasoft/babel-starter-kit) — Boilerplate for authoring JavaScript/React.js libraries
 
-### Support
-
-  * [#react-starter-kit](http://stackoverflow.com/questions/tagged/react-starter-kit) on Stack Overflow — Questions and answers
-  * [#react-starter-kit](https://gitter.im/kriasoft/react-starter-kit) on Gitter — Watch announcements, share ideas and feedback
-  * [GitHub issues](https://github.com/kriasoft/react-starter-kit/issues), or [Scrum board](https://waffle.io/kriasoft/react-starter-kit) — File issues, send feature requests
-  * [appear.in/react](https://appear.in/react) — Open hours! Exchange ideas and experiences (React, GraphQL, Startups, etc.)
-  * [@koistya](https://twitter.com/koistya) on [Codementor](https://www.codementor.io/koistya), or [Skype](http://hatscripts.com/addskype?koistya) — Private consulting
 
 ### License
 
